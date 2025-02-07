@@ -24,11 +24,11 @@ Los usuarios deben ser capaces de:
 ### Captura de pantalla
 
 A continuación, muestro el resultado del proyecto en una pantalla de escritorio:
-![](images\resultado.png)
+![](images/resultado.png)
 
 ### Enlaces
 
-- URL del proyecto publicado: [Aquí estará el enlace del sitio en GitHub Pages](https://your-live-site-url.com)
+- URL del proyecto publicado: [Aquí estará el enlace del sitio en GitHub Pages](https://camilo-atb.github.io/order-summary-card/)
 
 ## Mi proceso
 
